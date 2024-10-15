@@ -18,4 +18,4 @@ The folder structure will probably be line
 │   │   └── other boot-related files
 ```
 
-rename the `bootmgfw.efi` to `ori_bootmgfw.efi`. Copy `grub.efi` to the directory. Reboot the PC should boot into grub
+rename the `bootmgfw.efi` to `ori_bootmgfw.efi`. Copy `grub.efi` to the directory and rename it as the original windows efi, `bootmgfw.efi`. Reboot the PC should boot into grub
