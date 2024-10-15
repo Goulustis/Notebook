@@ -1,4 +1,6 @@
 ## Fix windows update overwriting /efi/boot
+This is for when the BIOS refuse to detect anython that is other than windows on the hardrive.
+
 - Load the efi partion
 
 ```bash
