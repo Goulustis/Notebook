@@ -1,10 +1,10 @@
 ## Fix windows update overwriting /efi/boot
-This is for when the BIOS refuse to detect anython that is other than windows on the hardrive.
+This is for when the BIOS refuse to detect anything that is other than windows on the hardrive.
 
 - Load the efi partion
 
 ```bash
-sudo mount /dev/sda1 /mnt/efi
+sudo mount /dev/sda1 /mnt
 ```
 
 The folder structure will probably be line
