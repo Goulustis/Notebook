@@ -1,5 +1,5 @@
 # Plan for Japan Trip
-From the stuff we can do in Sapporo, it feels like a 6-8 day trip. We can make the festival if we visit May 12 - May 18/20.
+From the stuff we can do in Sapporo, it feels like a 6-8 day trip. We can make the festival if we visit May 12 - May 18/20； web says there is sakura in 洞爷湖浮见堂公园 early May- early June. It could be fine?
 
 Good resource [website](https://www.visit-hokkaido.jp/cn/spot/detail_10003.html)
 ### Sapporo (札幌)
@@ -10,6 +10,7 @@ Good resource [website](https://www.visit-hokkaido.jp/cn/spot/detail_10003.html)
 - [**1 Day** - Otaru](https://www.japan-guide.com/e/e6700.html) - ~1hr ride 
     - [小樽三角市场](https://www.visit-hokkaido.jp/cn/spot/detail_10111.html)
 - [**1 Day** - 札幌丁香節](https://www.sapporo.travel/zh-tw/event/event-list/sapporo_lilac_festival/)
+- [**1 Day** - 登别地狱谷](https://www.visit-hokkaido.jp/cn/spot/detail_10157.html)
 
 #### Possible things to do
 - [札幌的二條市場和場外市場](https://www.sapporo.travel/zh-tw/spot/feature/sapporo-nijo-market-curb-market/)
